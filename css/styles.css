@@ -1,0 +1,16 @@
+.games_container .game_title {
+	margin-bottom: 0;
+	font-size: 1.2rem;
+}
+
+.games_container .hours_played {
+	margin-bottom: 0.7rem;
+	font-size: 2rem;
+}
+
+.games_container .game {
+	margin-bottom: 4rem;
+	background-color: #020202;
+	width: 0%;
+	overflow: hidden;
+}
